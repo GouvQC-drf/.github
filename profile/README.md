@@ -1,2 +1,2 @@
 # Procédure pour rejoindre le groupe
-Veuillez nous conatacter via le courriel Drf-informatique
+Veuillez nous contacter via le courriel drf-informatique.
